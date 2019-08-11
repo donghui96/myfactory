@@ -1,0 +1,10 @@
+..\obj\main.o: main.c
+..\obj\main.o: F:\Keil\ARM\ARMCC\Bin\..\include\string.h
+..\obj\main.o: ..\Gizwits\gizwits_product.h
+..\obj\main.o: F:\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\main.o: ..\Gizwits\gizwits_protocol.h
+..\obj\main.o: F:\Keil\ARM\ARMCC\Bin\..\include\stdbool.h
+..\obj\main.o: F:\Keil\ARM\ARMCC\Bin\..\include\stdio.h
+..\obj\main.o: F:\Keil\ARM\ARMCC\Bin\..\include\stdlib.h
+..\obj\main.o: ..\Utils\common.h
+..\obj\main.o: F:\Keil\ARM\ARMCC\Bin\..\include\ctype.h
